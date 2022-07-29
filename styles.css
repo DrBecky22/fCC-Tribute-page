@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+  }
+  
+  #title, h3, #img-caption {
+    display: block;
+    text-align: center;
+  }
+  
+  main {
+    background-color: gainsboro;
+  }
+  
+  #img-div {
+    background-color: white;
+    width: 95%;
+    margin: auto;
+  }
+  
+  #image {
+    width: 80%;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  #info-title {
+    padding-top: 30px;
+  }
+  
+  ul, #endquote, #quotecaption {
+    width: 25%;
+    min-width: 500px;
+    margin: auto;
+  }
+  
+  li {
+    padding: 0.75em;
+  }
+  
+  #endquote {
+    padding-top: 40px; 
+  }
+  
+  #quotecaption {
+    padding-top: 1.5em;
+    padding-bottom: 40px;
+  }
+  
+  #tribute-line {
+    padding-bottom: 40px;
+  }
